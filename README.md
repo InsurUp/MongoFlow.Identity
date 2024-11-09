@@ -1,5 +1,9 @@
 # MongoFlow.Identity
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![.NET C#](https://img.shields.io/badge/.NET-C%23-blue)](https://docs.microsoft.com/en-us/dotnet/csharp/)~~~~
+[![NuGet](https://img.shields.io/nuget/v/MongoFlow.Identity)](https://www.nuget.org/packages/MongoFlow.Identity)
+
 > [!WARNING]
 > This package is not ready for production use. It is still in development and should not be used in a production environment.
 >
