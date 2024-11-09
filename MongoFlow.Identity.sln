@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 #
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DD8DAB77-B438-4974-95F7-715274E0296F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCore.Identity.MongoFlow", "src\Core\AspNetCore.Identity.MongoFlow.csproj", "{699FE2BD-5896-4BF8-9DD1-9892A151F8B3}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MongoFlow.Identity", "src\Core\MongoFlow.Identity.csproj", "{699FE2BD-5896-4BF8-9DD1-9892A151F8B3}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1ADF3912-4305-4A84-B003-3AF6A66F26C1}"
 	ProjectSection(SolutionItems) = preProject

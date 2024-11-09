@@ -1,11 +1,11 @@
-# AspNetCore.Identity.MongoFlow
+# MongoFlow.Identity
 
 A MongoDB provider for ASP.NET Core Identity that leverages [MongoFlow](https://github.com/InsurUpOrg/MongoFlow) for seamless integration.
 
 ## Installation 
 
 ```bash
-dotnet add package AspNetCore.Identity.MongoFlow
+dotnet add package MongoFlow.Identity
 ```
 
 ## Usage

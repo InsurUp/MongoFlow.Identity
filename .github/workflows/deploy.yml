@@ -6,7 +6,7 @@ on:
       - 'v*'
 
 env:
-  PROJECT_PATH: 'src/Core/AspNetCore.Identity.MongoFlow.csproj'
+  PROJECT_PATH: 'src/Core/MongoFlow.Identity.csproj'
 
 jobs:
   build-and-publish:
